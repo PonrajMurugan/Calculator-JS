@@ -1,0 +1,53 @@
+button{
+
+    padding: 10px;
+    border:3px solid;
+    background-color: transparent;
+    color: aliceblue;
+
+
+}
+
+.cal{
+    margin-left: 91px;
+
+    
+}
+
+.ip{
+    margin-top: 25px;
+    margin-left: 75px;
+    border: 2px solid;
+    margin-right: 73px;
+     
+
+     align-items: center;
+     justify-content: center;
+}
+
+.clr{
+    margin-left: 45px;
+    margin-right:120px;
+    margin-bottom: 10px;
+    /* border:2px solid; */
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.total{
+    border:5px solid;
+    
+    margin:25px 590px 0px 600px;
+    /* background-image:url("bk4.jpg");  */
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(230, 146, 146));
+    box-shadow: 1px 1px 15px 15px rgba(0, 0, 0, 0.6);
+}
+
+input{
+    height:10vh;
+}
+
+.clr2{
+    margin-left: 25px;
+}
